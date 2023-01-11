@@ -30,8 +30,6 @@ To design a website to perform mathematical calculations in server side.
 Publish the website in the given URL.
 
 ## PROGRAM :
-
-## OUTPUT:
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -121,7 +119,12 @@ body{
     
 </html>
 ```
+
+## OUTPUT:
+![OUTPUT](./images/serveroutput.png)
+
 ### Home Page:
+![HOMEPAGE](./images/serverhomepage.png)
 
 
 ## Result:
