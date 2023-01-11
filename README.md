@@ -123,6 +123,7 @@ body{
 ## OUTPUT:
 
 ![OUTPUT](./images/serveroutput.png)
+![OUTPUT](./images/serveroutput2.png)
 
 ### Home Page:
 ![HOMEPAGE](./images/serverhomepage.png)
