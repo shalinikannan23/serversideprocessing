@@ -6,23 +6,23 @@ To design a website to perform mathematical calculations in server side.
 ## DESIGN STEPS:
 
 ### Step 1:
-
+First clone the repository in open theia ide terminal.
 
 
 ### Step 2:
-
+Write the program using html and css for the calculations to be displayed in the server side.
 
 
 ### Step 3:
-
+Make the allowed hosts '*' in setting.py in order to run our webserver.
 
 
 ### Step 4:
-
+Add codes to urls.py, views.py to run the code into the server.
 
 
 ### Step 5:
-
+Now give python3 manage.py runserver 0:8000 to make the server run.
 
 
 ### Step 6:
@@ -129,5 +129,7 @@ body{
 ![HOMEPAGE](./images/serverhomepage.png)
 
 
-## Result:
+## Result: 
+ 
+ Successfully designed a webpage to perform mathematical calculations in server side.
 
